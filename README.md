@@ -9,7 +9,6 @@ Ce projet est une implémentation complète du célèbre jeu vidéo **Tetris**, 
 - **Prévisualisation de la pièce suivante**.
 - **Animations visuelles** pour l'apparition des pièces et la disparition des lignes.
 - **Gestion complète du score** avec sauvegarde des meilleurs scores.
-- **Mode Zen** (optionnel).
 - **Contrôle via clavier** intuitif et réactif.
 
 ## 🛠️ Installation
